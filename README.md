@@ -24,3 +24,9 @@ BudgetCat Tracker is a simple and fun app to track your expenses and manage your
 ## Support
 
 If something is not working correctly, please contact us and we will help you as soon as possible.
+
+---
+
+## Privacy
+
+We do not collect or store any personal data.
